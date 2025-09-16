@@ -26,23 +26,23 @@ These indicate the kind of note you are working with:
 
 The following topics are covered in this vault. Each folder contains notes organized by type.
 
-- 1 – Data Structures and Algorithms
-- 2 – Computer Architecture
-- 3 – Computer Networking
-- 4 – Data Management
-- 5 – Distributed Systems
-- 6 – Mathematics
-- 7 – Operating Systems
-- 8 – Software Development
-- 9 – Security
-- 10 – Embedded Systems
-- 11 – Cloud Computing
-- 12 – Knowledge Management
-- 13 – Artificial Intelligence
-- 14 – Linux
-- 15 – Business
-- 16 – Ethics
-- 17 – Offensive Security
+- #Data_Structures_Algorithms
+- #Computer_Architecture
+- #Computer_Networking
+- #Data_Management
+- #Distributed_Systems
+- #Mathematics
+- #Operating_Systems
+- #Software_Development
+- #Security
+- #Embedded_Systems
+- #Cloud_Computing
+- #Knowledge_Management
+- #Artificial_Intelligence
+- #Linux
+- #Business
+- #Ethics
+- #Offensive_Security
 
 ---
 
