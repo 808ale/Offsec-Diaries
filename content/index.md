@@ -1,6 +1,7 @@
 ---
-title: Offsec Diaries
-tags: [index]
+title: Welcome to Offsec Diaries!
+tags:
+  - index
 ---
 
 # What's Offsec Diaries?
@@ -43,11 +44,12 @@ The decimal portion represents the *topic* within the note. These are the topics
 16. Ethics
 17. Offensive Security
 
+> [!Tip]
 > To get started go to the "Explorer" left of this website and dig in. 
 
 ## Free Security Resources
 
-Other cool free resources from the internet to check out:
+Other cool free resources from the internet:
 
 | Name                                                                                                                         | Description          |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------- |
